@@ -21,6 +21,7 @@ function divide(a, b) {
     return "Error: Division by zero";
   }
   return a / b;
+
 }
 
 // Example usage
